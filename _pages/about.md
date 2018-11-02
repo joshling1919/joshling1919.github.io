@@ -15,4 +15,4 @@ became deeply interested in the intersection of education and technology.
 I currently work as a software developer at App Academy. Outside of work, I
 co-founded an organization that teaches web development to high school students
 who are newcomers to the country. I also enjoy cooking, playing basketball, and
-playing piano.
+practicing piano.
