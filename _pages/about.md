@@ -12,7 +12,8 @@ for education.
 Afterwards, I attended Stanford's Graduate School of Education, and there, I
 became deeply interested in the intersection of education and technology.
 
-I currently work as a software developer at App Academy. Outside of work, I
-co-founded an organization that teaches web development to high school students
-who are newcomers to the country. I also enjoy cooking, playing basketball, and
+I currently work as a software developer at [App Academy](https://appacademy.io).
+Outside of work, I co-founded [Dev Club](https://www.linkedin.com/company/dev-club/),
+an organization that teaches web development to high school students who are
+newcomers to the country. I also enjoy cooking, playing basketball, and
 practicing piano.
