@@ -1,16 +1,16 @@
 # Site settings
 title: Joshua Ling
-description: 'Minimal Jekyll theme for storytellers'
-url: 'https://chesterhow.github.io'
+description: ''
+url: 'https://joshlingaround.com'
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name: Chester How
-  url: https://chester.how
-  email: chesterhow@gmail.com
+  name: Joshua Ling
+  url: https://joshlingaround.com
+  email: joshling1919@gmail.com
 
 # Build settings
 markdown: kramdown
