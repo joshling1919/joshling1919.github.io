@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 // Colors
 $default-color: #555;
 $default-shade: #353535;
@@ -14,7 +15,7 @@ $code-color: #bf616a;
 $primary: 'Libre Baskerville', 'Times New Roman', Times, serif;
 $secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua',
   'Georgia', serif;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+$sans-serif: 'Nunito', sans-serif;
 $monospaced: Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {
