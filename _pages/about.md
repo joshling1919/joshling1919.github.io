@@ -3,7 +3,7 @@ layout: about
 permalink: /about/
 ---
 
-Hi! I'm Josh, and I'm a developer and an educator.
+Hi! I'm Josh, and I love building things and teaching people.
 
 After graduating from The University of Texas in 2013, I taught eighth grade
 math for 2 years in Fort Worth, TX. That experience sparked my lifelong passion
