@@ -5,9 +5,9 @@ permalink: /about/
 
 Hi! I'm Josh, and I'm a developer and an educator.
 
-After graduating from The University of Texas, I taught eighth grade math for 2
-years in Fort Worth, TX. That experience sparked my lifelong passion for
-education.
+After graduating from The University of Texas in 2013, I taught eighth grade
+math for 2 years in Fort Worth, TX. That experience sparked my lifelong passion
+for education.
 
 Afterwards, I attended Stanford's Graduate School of Education, and there, I
 became deeply interested in the intersection of education and technology.
