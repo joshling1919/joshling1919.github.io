@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /about/
+permalink: /about
 ---
 
 Hi! I'm Josh, and I love building things and teaching people.
