@@ -23,13 +23,13 @@
     display: flex;
   }
 
-  &-entry-year {
-    position: relative;
+  &-entry-year-container {
     width: 20%;
     border-right: 1px solid $grey-1;
 
     h4 {
-      width: 90%;
+      position: relative;
+      width: 100%;
       text-align: center;
     }
   }
