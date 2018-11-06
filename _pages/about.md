@@ -6,7 +6,7 @@ permalink: /about
 Hi! I'm Josh, and I love building things and teaching people.
 
 I'm a software engineer at [App Academy](https://appacademy.io), an edtech
-company reimagining higher education by tying its success to its students'
+company that's reimagining higher education by tying its success to its students'
 success.
 
 Outside of work, I volunteer with and write curriculum for [Dev Club](https://www.linkedin.com/company/dev-club/),
