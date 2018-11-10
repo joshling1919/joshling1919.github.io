@@ -3,9 +3,7 @@ layout: post
 title: 'Start of Something New'
 ---
 
-I’ve always admired good writers: people who are effortly concise and articulate. Some people just have a way with words.
-
-I’ve also always wanted to write more.
+I’ve always admired good writers: people who are effortly concise and articulate. I’ve also always wanted to write more.
 
 2018 has been a year focused on improvement. I started taking piano lessons. I tried different habits, like waking up every morning at 5:30am or writing every single day. I made an effort to being a better shooter in basketball (lol). I even started setting weekly measurable goals with my brother and sister, and if we didn’t hit those goals, then we had to Venmo each other accordingly.
 
