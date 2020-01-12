@@ -39,7 +39,4 @@ should be getting 8 hours of sleep, but I’ve always thought of that recommende
 
 Walker’s book has dispelled my misconceptions and reoriented me to understand
 that instead of functioning simply as a source of energy, sleep is actually the
-bedrock of good health, stable mood, and peak cognitive performance. Choosing to
-not get the full amount of sleep that your body requires on a consistent basis
-(8 hours for the overwhelming majority of the population) is the same as
-choosing to not be your best self.
+bedrock of good health, stable mood, and peak cognitive performance.
