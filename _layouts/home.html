@@ -2,33 +2,77 @@
 layout: default
 ---
 
-<div class="catalogue">
-  {% for post in paginator.posts %}
-  <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-    <div>
-      <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-      <h1 class="catalogue-title">{{ post.title }}</h1>
-      <div class="catalogue-line"></div>
+<div class="about">
+  <section class="about-container">
+    <h3>About Me</h3>
 
-      <p>
-        {{ post.content | strip_html | truncatewords: 30 }}
-      </p>
+    <p>Hi! I'm Josh, and I love building things and teaching people.</p>
 
+    <p>
+      I'm a software engineer at
+      <a href="https://appacademy.io">App Academy</a>, an ed-tech company that's
+      re-imagining higher education by tying its success to its students'
+      success.
+    </p>
+    <div></div>
+  </section>
+
+  <section class="timeline-container">
+    <h3>Background</h3>
+    <div class="timeline">
+      <div class="timeline-entry">
+        <div class="timeline-entry-year-container">
+          <h4 class="timeline-entry-year timeline-entry-year-longhorns">
+            2009 - 2013
+          </h4>
+        </div>
+        <div class="timeline-entry-content">
+          <h5>BBA in Finance at The University of Texas</h5>
+        </div>
+      </div>
+
+      <div class="timeline-entry">
+        <div class="timeline-entry-year-container">
+          <h4 class="timeline-entry-year">2013 - 2015</h4>
+        </div>
+        <div class="timeline-entry-content">
+          <h5>8th Grade Math Teacher at Uplift Mighty (Ft Worth, TX)</h5>
+        </div>
+      </div>
+
+      <div class="timeline-entry">
+        <div class="timeline-entry-year-container">
+          <h4 class="timeline-entry-year timeline-entry-year-stanford">
+            2015 - 2016
+          </h4>
+        </div>
+        <div class="timeline-entry-content">
+          <h5>Master's in Education at Stanford University</h5>
+        </div>
+      </div>
+
+      <div class="timeline-entry">
+        <div class="timeline-entry-year-container">
+          <h4 class="timeline-entry-year">2016 - 2017</h4>
+        </div>
+        <div class="timeline-entry-content">
+          <h5>Instructor at App Academy</h5>
+        </div>
+      </div>
+
+      <div class="timeline-entry">
+        <div class="timeline-entry-year-container">
+          <h4 class="timeline-entry-year">2018 - Present</h4>
+        </div>
+        <div class="timeline-entry-content">
+          <h5>Software Engineer at App Academy</h5>
+        </div>
+      </div>
     </div>
-  </a>
-  {% endfor %}
-</div>
+  </section>
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
+  <!-- <section class="projects-container">
+    <h3>Projects</h3>
 
-  {% if paginator.previous_page or paginator.next_page %}
-  <span>{{ paginator.page }}</span>
-  {% endif %}
-
+  </section> -->
 </div>
